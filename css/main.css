@@ -6,7 +6,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: 200;
+    font-weight: 300;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -27,7 +27,8 @@ h1 {
 h2 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    font-weight: 500;
 }
 p {
     font-size: 1.5em;
