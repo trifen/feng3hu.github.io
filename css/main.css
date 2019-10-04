@@ -8,11 +8,17 @@ nav ul, footer ul {
     list-style: none;
     font-weight: 300;
 }
-nav ul li, footer ul li {
+nav ul li{
     display: inline;
     margin-right: 20px;
     font-size: 1.5em;
 }
+footer ul li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 1em;
+}
+
 a {
     text-decoration: none;
     color: #999;
