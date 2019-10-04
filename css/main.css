@@ -11,12 +11,12 @@ nav ul, footer ul {
 nav ul li{
     display: inline;
     margin-right: 20px;
-    font-size: 1.5em;
+    font-size: 1.6em;
 }
 footer ul li{
     display: inline;
     margin-right: 20px;
-    font-size: 1em;
+    font-size: 1.4em;
 }
 
 a {
@@ -31,15 +31,15 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-size: 1.4em;
+    font-size: 1.6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-bottom: 1px;
     margin-top: 15px;
     font-weight: 500;
 }
 p {
-    font-size: 1.2em;
-    line-height: 1.4em;
+    font-size: 1.4em;
+    line-height: 1.6em;
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
